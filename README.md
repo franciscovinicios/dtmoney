@@ -43,8 +43,7 @@ The following tools were used in the construction of the project:
 * **Modal**
 <br/>
 
-![modal](https://user-images.githubusercontent.com/78514869/155855700-1e299b81-939e-4cef-9b82-8e26cbd8af1f.png)
-
+![modal](https://user-images.githubusercontent.com/78514869/155856024-9aaa3bc7-cee9-4057-8e56-53c0956b25e6.png)
 
 
 ## Getting Started
