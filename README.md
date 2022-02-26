@@ -33,10 +33,17 @@ The following tools were used in the construction of the project:
 
 ## Layout
 
-**Dashboard**
+* **Dashboard**
+<br/>
 
+![dashboard](https://user-images.githubusercontent.com/78514869/155855705-7b75aeeb-694c-49c2-a148-cb3ba9ba67cc.png)
 
-**Modal**
+<br/>
+
+* **Modal**
+<br/>
+
+![modal](https://user-images.githubusercontent.com/78514869/155855700-1e299b81-939e-4cef-9b82-8e26cbd8af1f.png)
 
 
 
@@ -56,22 +63,22 @@ The project can be built with npm or yarn, so choose one of the approach bellow 
 * To download the project follow the instructions bellow:
 
 ```
-1. git clone https://github.com/franciscovinicios/ignite-desafio-conceitos-do-react.git
-2. cd ignite-desafio-conceitos-do-react
+1. git clone https://github.com/franciscovinicios/dtmoney.git
+2. cd dtmoney
 ```
 
 * Install the dependencies and start the project:
 
 ```
 3. yarn install
-4. yarn dev
+4. yarn start
 ```
 
 or
 
 ```
 3. npm install
-4. npm dev
+4. npm start
 ```
 
 
