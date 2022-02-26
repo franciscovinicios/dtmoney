@@ -33,7 +33,12 @@ The following tools were used in the construction of the project:
 
 ## Layout
 
-![screencapture-localhost-8080-2022-02-21-21_15_13](https://user-images.githubusercontent.com/78514869/155046467-f624cf16-d1f0-4fd7-85c6-3b76d09e181a.png)
+**Dashboard**
+
+
+**Modal**
+
+
 
 ## Getting Started
 
