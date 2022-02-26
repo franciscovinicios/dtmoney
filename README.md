@@ -1,7 +1,9 @@
-![to do](https://user-images.githubusercontent.com/78514869/155045010-cdcfd8b8-d546-4985-8b17-6e0a00928100.png)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/78514869/155855280-1a6c08e9-7194-4fdf-a68f-37bf73d89da1.svg" />
+</div>
 
 <h3 align="center">
-    This ToDo List project is a challenge that consists of implementing some features so that the to do list works correctly
+    Take control of your personal finances
 </h3>
 
 <h4 align="center"> 
@@ -24,10 +26,10 @@ The following tools were used in the construction of the project:
 
 -   **React**
 -   **TypeScript**
--   **WebPack**
--   **WebPack Dev Server**
--   **SASS**
--   **Fast Refresh**
+-   **Styled Components**
+-   **Axios**
+-   **MirageJs**
+-   **Polished - Css**
 
 ## Layout
 
