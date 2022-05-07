@@ -41,7 +41,7 @@ export function Summary() {
 
       <div>
         <header>
-          <p>Saidas</p>
+          <p>Saídas</p>
           <img src={outcomeImg} alt="Saidas" />
         </header>
         <strong>

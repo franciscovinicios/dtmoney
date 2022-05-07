@@ -15,6 +15,13 @@ export const Content = styled.div `
   align-items: center;
   justify-content: space-between;
 
+  @media (max-width:414px) {
+  padding: 2rem 1rem 8rem;
+
+    flex-direction: column;
+    gap: 2rem
+  }
+
   button {
     font-size: 1rem;
     color: #fff;
